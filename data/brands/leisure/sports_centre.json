@@ -301,6 +301,20 @@
       }
     },
     {
+      "displayName": "Places Leisure",
+      "locationSet": {"include": ["gb"]},
+      "matchNames": ["places leisure centres"],
+      "tags": {
+        "brand": "Places Leisure",
+        "brand:wikidata": "Q130223830",
+        "fee": "yes",
+        "leisure": "sports_centre",
+        "operator": "Places for People Leisure Limited",
+        "operator:type": "private_non_profit",
+        "operator:wikidata": "Q130223830"
+      }
+    },
+    {
       "displayName": "Poliesportiu Municipal",
       "id": "poliesportiumunicipal-b5508a",
       "locationSet": {"include": ["es"]},
